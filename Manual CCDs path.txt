@@ -1,0 +1,27 @@
+Weekly CCDs for Rockville Medical placed at :
+\\10.249.0.8\garage\DIS\DIS\CCD_ManualExtraction\CHS\CHS_Northeast Partners, LLC\ROCKVILLE MEDICAL CARE LLC
+
+CCD extraction for James M bury placed at :
+\\10.249.0.8\garage\DIS\DIS\CCD_AutoExtraction\CHS\Coalition of Southeast Wisconsin-T1\James M Bury MD
+
+Weekly CCDs for Night and Day Medical placed at :
+\\10.249.0.8\garage\DIS\DIS\CCD_ManualExtraction\SOMOS\Night_and_Day_Medical
+
+Weekly CCDs for Washington placed at :
+\\10.249.0.8\garage\DIS\DIS\CCD_ManualExtraction\SOMOS\Washington Heights Pediatrics
+
+Weekly CCDs for Lili Ren MD PC placed at :
+\\10.249.0.8\garage\DIS\DIS\CCD_ManualExtraction\SOMOS\Lili Ren MD PC
+
+Weekly CCDs for Boston placed at :
+\\10.249.0.8\garage\DIS\DIS\CCD_ManualExtraction\SOMOS\Boston Road Pediatrics
+
+Weekly CCDs for Dr. Tuyen Trinh placed at :
+\\10.249.0.8\garage\DIS\DIS\CCD_ManualExtraction\SOMOS\Dr. Tuyen Trinh DO PLLC
+
+Weekly CCDs for Attan Kasid MD PC placed at :
+\\10.249.0.8\garage\DIS\DIS\CCD_AutoExtraction\CHS\CHS_Mid_Atlantic_Collaborative_Care_LLC_3319\Attan Kasid
+
+Weekly Batch reports for BMS Athena placed at :
+\\10.249.0.8\garage\DIS\DIS\Data Extraction\Data Files\BMS\Clinical Reports\08272020
+
